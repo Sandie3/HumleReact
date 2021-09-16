@@ -1,0 +1,23 @@
+// *** SASS VARIABLES ***
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Merriweather&display=swap');
+$font-main: 'Merriweather', sans-serif;
+$font-hightlight: 'Bree Serif', serif;
+
+// Colours ... https://coolors.co/dbebd6-423629-4f5d2f-7d7e75-f0a202
+$col_whiteish: #EEE8D6;
+$col_blackish: #3D3D3D;
+$col_honeydew: #DBEBD6;
+$col_darklava: #423629;
+$col_green: #4F5D2F;
+$col_gray: #7D7E75;
+$col_marigold: #F0A202;
+$col_redryb: #FF221F;
+
+// Space
+$space_header: 20px;
+$space_div: 40px 20px;
+
+// Misc
+$brd_main: 1px dotted $col_marigold;
